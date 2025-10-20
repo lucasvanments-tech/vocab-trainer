@@ -1,0 +1,2054 @@
+[
+  {
+    "fr": "une langue",
+    "nl": "een taal"
+  },
+  {
+    "fr": "une langue étrangère",
+    "nl": "een vreemde taal"
+  },
+  {
+    "fr": "le mot",
+    "nl": "het woord"
+  },
+  {
+    "fr": "l’emprunt",
+    "nl": "het leenwoord"
+  },
+  {
+    "fr": "la richesse",
+    "nl": "de rijkdom"
+  },
+  {
+    "fr": "la pauvreté",
+    "nl": "de armoede"
+  },
+  {
+    "fr": "le langage",
+    "nl": "het taalgebruik"
+  },
+  {
+    "fr": "le registre",
+    "nl": "het taalgebruik"
+  },
+  {
+    "fr": "le langage soutenu",
+    "nl": "formeel taalgebruik"
+  },
+  {
+    "fr": "le langage courant",
+    "nl": "standaard taalgebruik"
+  },
+  {
+    "fr": "le langage informel",
+    "nl": "informeel taalgebruik"
+  },
+  {
+    "fr": "le langage vulgaire",
+    "nl": "grove taal"
+  },
+  {
+    "fr": "apprendre",
+    "nl": "leren"
+  },
+  {
+    "fr": "l’apprentissage",
+    "nl": "het leren"
+  },
+  {
+    "fr": "réviser",
+    "nl": "leren / herhalen"
+  },
+  {
+    "fr": "le défi",
+    "nl": "de uitdaging"
+  },
+  {
+    "fr": "aider",
+    "nl": "helpen"
+  },
+  {
+    "fr": "empêcher",
+    "nl": "tegenhouden"
+  },
+  {
+    "fr": "adapter",
+    "nl": "aanpassen"
+  },
+  {
+    "fr": "ça m’empêche de…",
+    "nl": "dat houdt me tegen om…"
+  },
+  {
+    "fr": "s’exprimer",
+    "nl": "zich uitdrukken"
+  },
+  {
+    "fr": "prendre la parole",
+    "nl": "het woord nemen"
+  },
+  {
+    "fr": "l’expression",
+    "nl": "de uitdrukking"
+  },
+  {
+    "fr": "donner la parole à",
+    "nl": "het woord geven aan"
+  },
+  {
+    "fr": "s’adresser à",
+    "nl": "zich richten tot"
+  },
+  {
+    "fr": "adresser la parole à",
+    "nl": "het woord richten tot"
+  },
+  {
+    "fr": "raconter une histoire",
+    "nl": "een verhaal vertellen"
+  },
+  {
+    "fr": "faire un discours",
+    "nl": "een speech geven"
+  },
+  {
+    "fr": "discuter",
+    "nl": "discussiëren"
+  },
+  {
+    "fr": "une discussion",
+    "nl": "een discussie"
+  },
+  {
+    "fr": "interroger quelqu’un",
+    "nl": "iemand bevragen/ondervragen"
+  },
+  {
+    "fr": "poser des questions",
+    "nl": "vragen stellen"
+  },
+  {
+    "fr": "la dispute",
+    "nl": "de ruzie"
+  },
+  {
+    "fr": "se disputer",
+    "nl": "ruzie maken"
+  },
+  {
+    "fr": "le patrimoine culturel",
+    "nl": "het cultureel erfgoed"
+  },
+  {
+    "fr": "se faire du souci",
+    "nl": "bezorgd zijn"
+  },
+  {
+    "fr": "disparaître",
+    "nl": "verdwijnen"
+  },
+  {
+    "fr": "peu à peu",
+    "nl": "langzamerhand"
+  },
+  {
+    "fr": "un personnage célèbre",
+    "nl": "een beroemd personage"
+  },
+  {
+    "fr": "le roman",
+    "nl": "de roman"
+  },
+  {
+    "fr": "la bande dessinée (BD)",
+    "nl": "het stripverhaal"
+  },
+  {
+    "fr": "la poésie",
+    "nl": "poëzie"
+  },
+  {
+    "fr": "le recueil de poésie",
+    "nl": "de gedichtenbundel"
+  },
+  {
+    "fr": "le poème",
+    "nl": "het gedicht"
+  },
+  {
+    "fr": "le lecteur",
+    "nl": "de lezer"
+  },
+  {
+    "fr": "la lectrice",
+    "nl": "de lezeres"
+  },
+  {
+    "fr": "Lire (je lis, j’ai lu)",
+    "nl": "lezen"
+  },
+  {
+    "fr": "Découvrir (j’ai découvert)",
+    "nl": "ontdekken"
+  },
+  {
+    "fr": "la liseuse",
+    "nl": "de e-reader"
+  },
+  {
+    "fr": "l’écrivain",
+    "nl": "De schrijver"
+  },
+  {
+    "fr": "l’auteur",
+    "nl": "de auteur"
+  },
+  {
+    "fr": "l’écriture",
+    "nl": "het schrijven"
+  },
+  {
+    "fr": "écrire",
+    "nl": "schrijven"
+  },
+  {
+    "fr": "cet écrivain est considéré comme…",
+    "nl": "Deze schrijver wordt beschouwd als…"
+  },
+  {
+    "fr": "être d'origine marocaine",
+    "nl": "van Marokkaanse origine zijn"
+  },
+  {
+    "fr": "passer l'enfance",
+    "nl": "de kindertijd doorbrengen"
+  },
+  {
+    "fr": "l’adolescence",
+    "nl": "de pubertijd"
+  },
+  {
+    "fr": "la jeunesse",
+    "nl": "de jeugd"
+  },
+  {
+    "fr": "il a vécu",
+    "nl": "hij heeft geleefd"
+  },
+  {
+    "fr": "il a grandi",
+    "nl": "hij is opgegroeid"
+  },
+  {
+    "fr": "exprimer",
+    "nl": "uitdrukken"
+  },
+  {
+    "fr": "représenter",
+    "nl": "vertegenwoordigen"
+  },
+  {
+    "fr": "influencer",
+    "nl": "beïnvloeden"
+  },
+  {
+    "fr": "s'inspirer de",
+    "nl": "inspiratie halen uit"
+  },
+  {
+    "fr": "le petit écran",
+    "nl": "de televisie"
+  },
+  {
+    "fr": "le grand écran",
+    "nl": "de bioscoopfilm"
+  },
+  {
+    "fr": "le programme",
+    "nl": "het programma"
+  },
+  {
+    "fr": "l’émission",
+    "nl": "de uitzending"
+  },
+  {
+    "fr": "la télécommande",
+    "nl": "afstandsbediening"
+  },
+  {
+    "fr": "zapper",
+    "nl": "zappen"
+  },
+  {
+    "fr": "l’épisode",
+    "nl": "de aflevering"
+  },
+  {
+    "fr": "la saison",
+    "nl": "het seizoen"
+  },
+  {
+    "fr": "regarder les actualités",
+    "nl": "naar de actualiteiten kijken"
+  },
+  {
+    "fr": "le journal télévisé",
+    "nl": "het tv-journaal"
+  },
+  {
+    "fr": "aller au ciné(ma)",
+    "nl": "naar de bioscoop gaan"
+  },
+  {
+    "fr": "choisir l’horaire",
+    "nl": "het tijdstip kiezen"
+  },
+  {
+    "fr": "acheter un billet / un ticket",
+    "nl": "een ticket kopen"
+  },
+  {
+    "fr": "réserver",
+    "nl": "reserveren"
+  },
+  {
+    "fr": "commencer",
+    "nl": "beginnen"
+  },
+  {
+    "fr": "finir",
+    "nl": "eindigen"
+  },
+  {
+    "fr": "durer",
+    "nl": "duren"
+  },
+  {
+    "fr": "une bande annonce",
+    "nl": "een trailer"
+  },
+  {
+    "fr": "le doublage",
+    "nl": "het nasynchroniseren"
+  },
+  {
+    "fr": "Sous",
+    "nl": "titré - Ondertiteld"
+  },
+  {
+    "fr": "l’histoire / le récit",
+    "nl": "het verhaal"
+  },
+  {
+    "fr": "le héros",
+    "nl": "de held"
+  },
+  {
+    "fr": "l’héroïne",
+    "nl": "de heldin"
+  },
+  {
+    "fr": "une comédie",
+    "nl": "een komedie"
+  },
+  {
+    "fr": "drôle / rigolo",
+    "nl": "grappig"
+  },
+  {
+    "fr": "comique",
+    "nl": "komisch"
+  },
+  {
+    "fr": "l’humour",
+    "nl": "de humor"
+  },
+  {
+    "fr": "humoristique",
+    "nl": "humoristisch"
+  },
+  {
+    "fr": "on rit",
+    "nl": "we lachen"
+  },
+  {
+    "fr": "ça fait rire",
+    "nl": "het is lachwekkend"
+  },
+  {
+    "fr": "ça m’a fait rire",
+    "nl": "dat maakte me aan het lachen"
+  },
+  {
+    "fr": "un drame",
+    "nl": "een drama"
+  },
+  {
+    "fr": "un sujet sérieux",
+    "nl": "een serieus onderwerp"
+  },
+  {
+    "fr": "triste",
+    "nl": "verdrietig"
+  },
+  {
+    "fr": "émouvant(e)/ touchant(e)",
+    "nl": "ontroerend"
+  },
+  {
+    "fr": "Ça m’a ému",
+    "nl": "Dat heeft me ontroerd"
+  },
+  {
+    "fr": "ça m’a touché",
+    "nl": "dat heeft me geraakt"
+  },
+  {
+    "fr": "un film d’horreur",
+    "nl": "een horrorfilm"
+  },
+  {
+    "fr": "effrayant(e)",
+    "nl": "eng"
+  },
+  {
+    "fr": "angoissant",
+    "nl": "angstaanjagend"
+  },
+  {
+    "fr": "un film d’action",
+    "nl": "een actiefilm"
+  },
+  {
+    "fr": "de science",
+    "nl": "fiction - sciencefiction"
+  },
+  {
+    "fr": "un détective",
+    "nl": "een detective"
+  },
+  {
+    "fr": "un film d’animations",
+    "nl": "een animatiefilm"
+  },
+  {
+    "fr": "un dessin animé",
+    "nl": "een tekenfilm"
+  },
+  {
+    "fr": "Il y a du suspense",
+    "nl": "er is spanning"
+  },
+  {
+    "fr": "des effets spéciaux",
+    "nl": "speciale effecten"
+  },
+  {
+    "fr": "… a écrit le scénario",
+    "nl": "… heeft het scenario geschreven"
+  },
+  {
+    "fr": "le producteur est…",
+    "nl": "De producer is…"
+  },
+  {
+    "fr": "Chaque épisode dure … minutes",
+    "nl": "Elke aflevering duurt … minuten"
+  },
+  {
+    "fr": "le film a reçu un Oscar",
+    "nl": "De film heeft een Oscar gewonnen"
+  },
+  {
+    "fr": "… a eu beaucoup de succès",
+    "nl": "… veel succes gehad"
+  },
+  {
+    "fr": "… était un grand succès",
+    "nl": "… was een groot succes"
+  },
+  {
+    "fr": "… a eu de bonnes critiques",
+    "nl": "… heeft goede recensies gekregen"
+  },
+  {
+    "fr": "… a eu de mauvaises critiques",
+    "nl": "… heeft slechte recensies gekregen"
+  },
+  {
+    "fr": "Omar Sy joue le rôle principal",
+    "nl": "Omar Sy speelt de hoofdrol"
+  },
+  {
+    "fr": "Les acteurs principaux sont…",
+    "nl": "De belangrijkste acteurs zijn…"
+  },
+  {
+    "fr": "Le sujet du film est…",
+    "nl": "Het onderwerp van de film is…"
+  },
+  {
+    "fr": "le crime",
+    "nl": "de misdaad"
+  },
+  {
+    "fr": "la guerre",
+    "nl": "de oorlog"
+  },
+  {
+    "fr": "la magie",
+    "nl": "de magie"
+  },
+  {
+    "fr": "l’amour",
+    "nl": "de liefde"
+  },
+  {
+    "fr": "l’amitié",
+    "nl": "de vriendschap"
+  },
+  {
+    "fr": "à la campagne",
+    "nl": "op het platteland"
+  },
+  {
+    "fr": "dans un bateau",
+    "nl": "in een boot"
+  },
+  {
+    "fr": "dans la banlieue",
+    "nl": "in de buitenwijken"
+  },
+  {
+    "fr": "d’accord",
+    "nl": "oké"
+  },
+  {
+    "fr": "volontiers",
+    "nl": "graag"
+  },
+  {
+    "fr": "avec plaisir",
+    "nl": "met plezier"
+  },
+  {
+    "fr": "bonne idée",
+    "nl": "goed idee"
+  },
+  {
+    "fr": "ça me va",
+    "nl": "ik vind het goed"
+  },
+  {
+    "fr": "j’en ai vraiment envie",
+    "nl": "ik heb er echt zin in"
+  },
+  {
+    "fr": "j’ai hâte d’y être",
+    "nl": "ik kan niet wachten"
+  },
+  {
+    "fr": "J’y vais demain avec…",
+    "nl": "Ik ga er morgen heen met…"
+  },
+  {
+    "fr": "On sera combien?",
+    "nl": "Met hoeveel zullen we zijn?"
+  },
+  {
+    "fr": "À quelle heure, … commence?",
+    "nl": "Hoe laat begint…?"
+  },
+  {
+    "fr": "On se voit où?",
+    "nl": "Waar zien we elkaar?"
+  },
+  {
+    "fr": "Je viens te chercher à… heures",
+    "nl": "Ik kom je ophalen om… uur"
+  },
+  {
+    "fr": "assister à un concert",
+    "nl": "een concert bijwonen"
+  },
+  {
+    "fr": "un festival",
+    "nl": "een festival"
+  },
+  {
+    "fr": "une place",
+    "nl": "een plaats"
+  },
+  {
+    "fr": "un billet / un ticket",
+    "nl": "een kaartje"
+  },
+  {
+    "fr": "le chanteur, la chanteuse",
+    "nl": "de zanger(es)"
+  },
+  {
+    "fr": "la chanson",
+    "nl": "het lied"
+  },
+  {
+    "fr": "l’orchestre",
+    "nl": "het orkest"
+  },
+  {
+    "fr": "le groupe",
+    "nl": "de band"
+  },
+  {
+    "fr": "le compositeur",
+    "nl": "de componist"
+  },
+  {
+    "fr": "le musicien, la musicienne",
+    "nl": "de muzikant(e)"
+  },
+  {
+    "fr": "le public",
+    "nl": "het publiek"
+  },
+  {
+    "fr": "le spectateur",
+    "nl": "de toeschouwer"
+  },
+  {
+    "fr": "les visiteurs",
+    "nl": "de bezoekers"
+  },
+  {
+    "fr": "les fans",
+    "nl": "de fans"
+  },
+  {
+    "fr": "applaudir",
+    "nl": "applaudisseren"
+  },
+  {
+    "fr": "faire un selfie avec son idole",
+    "nl": "een selfie maken met zijn/haar idool"
+  },
+  {
+    "fr": "demander un autographe",
+    "nl": "een handtekening vragen"
+  },
+  {
+    "fr": "la salle de concert",
+    "nl": "de concertzaal"
+  },
+  {
+    "fr": "sur scène",
+    "nl": "op het podium"
+  },
+  {
+    "fr": "les costumes",
+    "nl": "de kostuums"
+  },
+  {
+    "fr": "la lumière",
+    "nl": "het licht"
+  },
+  {
+    "fr": "l’écran",
+    "nl": "het scherm"
+  },
+  {
+    "fr": "le décor",
+    "nl": "het decor"
+  },
+  {
+    "fr": "le son",
+    "nl": "het geluid"
+  },
+  {
+    "fr": "la musique classique",
+    "nl": "klassieke muziek"
+  },
+  {
+    "fr": "pop",
+    "nl": "pop(muziek)"
+  },
+  {
+    "fr": "r&b",
+    "nl": "r&b"
+  },
+  {
+    "fr": "du blues",
+    "nl": "blues"
+  },
+  {
+    "fr": "du rap",
+    "nl": "rap"
+  },
+  {
+    "fr": "moderne",
+    "nl": "modern"
+  },
+  {
+    "fr": "ancien",
+    "nl": "ouderwets"
+  },
+  {
+    "fr": "sortir un album",
+    "nl": "een album uitbrengen"
+  },
+  {
+    "fr": "donner un concert",
+    "nl": "een concert geven"
+  },
+  {
+    "fr": "bien chanter",
+    "nl": "goed zingen"
+  },
+  {
+    "fr": "mal chanter",
+    "nl": "slecht zingen"
+  },
+  {
+    "fr": "avoir une belle voix",
+    "nl": "een mooie stem hebben"
+  },
+  {
+    "fr": "avoir une mauvaise voix",
+    "nl": "een slechte stem hebben"
+  },
+  {
+    "fr": "jouer…",
+    "nl": "spelen"
+  },
+  {
+    "fr": "du piano",
+    "nl": "piano"
+  },
+  {
+    "fr": "du violon",
+    "nl": "viool"
+  },
+  {
+    "fr": "du violoncelle",
+    "nl": "cello"
+  },
+  {
+    "fr": "du saxophone",
+    "nl": "saxofoon"
+  },
+  {
+    "fr": "de la guitare",
+    "nl": "gitaar"
+  },
+  {
+    "fr": "de la batterie",
+    "nl": "drum"
+  },
+  {
+    "fr": "de la flûte",
+    "nl": "fluit"
+  },
+  {
+    "fr": "je suis convaincu(e) que…",
+    "nl": "Ik ben ervan overtuigd dat…"
+  },
+  {
+    "fr": "personnellement, je trouve que…",
+    "nl": "Persoonlijk, vind ik dat…"
+  },
+  {
+    "fr": "je pense que",
+    "nl": "ik denk dat…"
+  },
+  {
+    "fr": "c’était… super sympa",
+    "nl": "Het was… erg leuk"
+  },
+  {
+    "fr": "formidable",
+    "nl": "formidabel"
+  },
+  {
+    "fr": "fantastique",
+    "nl": "fantastisch"
+  },
+  {
+    "fr": "beau",
+    "nl": "mooi"
+  },
+  {
+    "fr": "amusant",
+    "nl": "vermakelijk"
+  },
+  {
+    "fr": "incroyable",
+    "nl": "ongelofelijk"
+  },
+  {
+    "fr": "extraordinaire",
+    "nl": "buitengewoon"
+  },
+  {
+    "fr": "chouette",
+    "nl": "leuk"
+  },
+  {
+    "fr": "pas mal",
+    "nl": "niet slecht"
+  },
+  {
+    "fr": "captivant",
+    "nl": "boeiend"
+  },
+  {
+    "fr": "original",
+    "nl": "origineel"
+  },
+  {
+    "fr": "impressionnant",
+    "nl": "indrukwekkend"
+  },
+  {
+    "fr": "réussi",
+    "nl": "geslaagd"
+  },
+  {
+    "fr": "étonnant",
+    "nl": "verbazingwekkend"
+  },
+  {
+    "fr": "Ça me plaît parce que…",
+    "nl": "Dat vind ik leuk omdat…"
+  },
+  {
+    "fr": "Ça ne m’a pas plu…",
+    "nl": "Dat vond ik niet leuk…"
+  },
+  {
+    "fr": "Ce qui m’a plu, c’est…",
+    "nl": "Wat ik erg leuk vond is…"
+  },
+  {
+    "fr": "C’est un chef d’œuvre",
+    "nl": "Het is een meesterwerk"
+  },
+  {
+    "fr": "… m’a fait réfléchir",
+    "nl": "…heeft mij aan het denken gezet"
+  },
+  {
+    "fr": "j’ai beaucoup ri",
+    "nl": "Ik heb veel gelachen"
+  },
+  {
+    "fr": "j’ai beaucoup pleuré",
+    "nl": "Ik heb veel gehuild"
+  },
+  {
+    "fr": "de beaux paysages",
+    "nl": "Mooie landschappen"
+  },
+  {
+    "fr": "un bon décor",
+    "nl": "een mooie decor"
+  },
+  {
+    "fr": "le son était très bon",
+    "nl": "het geluid was erg goed"
+  },
+  {
+    "fr": "Je le recommande vivement",
+    "nl": "Ik raad het van harte aan"
+  },
+  {
+    "fr": "Horrible / terrible",
+    "nl": "verschrikkelijk"
+  },
+  {
+    "fr": "ennuyeux",
+    "nl": "saai"
+  },
+  {
+    "fr": "nul",
+    "nl": "waardeloos"
+  },
+  {
+    "fr": "très mauvais",
+    "nl": "erg slecht"
+  },
+  {
+    "fr": "décevant",
+    "nl": "teleurstellend"
+  },
+  {
+    "fr": "violent",
+    "nl": "gewelddadig"
+  },
+  {
+    "fr": "J’ai été déçu",
+    "nl": "Ik was teleurgesteld"
+  },
+  {
+    "fr": "Ce concert m’a déçu parce que…",
+    "nl": "Dit concert heeft me teleurgesteld want.."
+  },
+  {
+    "fr": "visiter un musée",
+    "nl": "naar een museum gaan"
+  },
+  {
+    "fr": "aller voir une exposition",
+    "nl": "een tentoonstelling gaan zien"
+  },
+  {
+    "fr": "une œuvre d’art",
+    "nl": "een kunstwerk"
+  },
+  {
+    "fr": "une sculpture",
+    "nl": "een standbeeld"
+  },
+  {
+    "fr": "un tableau / une peinture",
+    "nl": "een schilderij"
+  },
+  {
+    "fr": "un dessin",
+    "nl": "een tekening"
+  },
+  {
+    "fr": "La peinture",
+    "nl": "Het schilderen"
+  },
+  {
+    "fr": "le peintre",
+    "nl": "de schilder"
+  },
+  {
+    "fr": "peindre",
+    "nl": "schilderen"
+  },
+  {
+    "fr": "la sculpture",
+    "nl": "het beeldhouwen"
+  },
+  {
+    "fr": "le sculpteur",
+    "nl": "de beeldhouwer"
+  },
+  {
+    "fr": "le dessin",
+    "nl": "het tekenen"
+  },
+  {
+    "fr": "le dessinateur",
+    "nl": "de tekenaar"
+  },
+  {
+    "fr": "cette œuvre se trouve…",
+    "nl": "Dit werk bevindt zich…"
+  },
+  {
+    "fr": "on peut voir ce tableau….",
+    "nl": "je kunt dit schilderij zien…"
+  },
+  {
+    "fr": "le tableau a été peint par…",
+    "nl": "Het schilderij is geschilderd door…"
+  },
+  {
+    "fr": "expressionniste, réaliste, surréaliste",
+    "nl": "De schilder behoort tot de klassieke,"
+  },
+  {
+    "fr": "au premier plan",
+    "nl": "op de voorgrond"
+  },
+  {
+    "fr": "à l’arrière",
+    "nl": "plan - op de achtergrond"
+  },
+  {
+    "fr": "en haut",
+    "nl": "bovenaan"
+  },
+  {
+    "fr": "en bas",
+    "nl": "onderin"
+  },
+  {
+    "fr": "à gauche",
+    "nl": "links"
+  },
+  {
+    "fr": "à droite",
+    "nl": "rechts"
+  },
+  {
+    "fr": "au milieu",
+    "nl": "in het midden"
+  },
+  {
+    "fr": "à côté de",
+    "nl": "naast"
+  },
+  {
+    "fr": "derrière",
+    "nl": "achter"
+  },
+  {
+    "fr": "devant",
+    "nl": "voor"
+  },
+  {
+    "fr": "au dessus de",
+    "nl": "boven"
+  },
+  {
+    "fr": "au",
+    "nl": "dessous de - onder"
+  },
+  {
+    "fr": "sur",
+    "nl": "op"
+  },
+  {
+    "fr": "sous",
+    "nl": "onder"
+  },
+  {
+    "fr": "on voit…",
+    "nl": "we zien…."
+  },
+  {
+    "fr": "un homme",
+    "nl": "een man"
+  },
+  {
+    "fr": "une femme",
+    "nl": "een vrouw"
+  },
+  {
+    "fr": "un enfant",
+    "nl": "een kind"
+  },
+  {
+    "fr": "un ange",
+    "nl": "een engel"
+  },
+  {
+    "fr": "un dieu",
+    "nl": "een god"
+  },
+  {
+    "fr": "une déesse",
+    "nl": "een godin"
+  },
+  {
+    "fr": "un symbole",
+    "nl": "een symbool"
+  },
+  {
+    "fr": "un animal (des animaux)",
+    "nl": "een dier"
+  },
+  {
+    "fr": "un bâtiment",
+    "nl": "een gebouw"
+  },
+  {
+    "fr": "être en train de…",
+    "nl": "bezig zijn met…"
+  },
+  {
+    "fr": "vieux (vieille)",
+    "nl": "oud"
+  },
+  {
+    "fr": "jeune",
+    "nl": "jong"
+  },
+  {
+    "fr": "riche",
+    "nl": "rijk"
+  },
+  {
+    "fr": "pauvre",
+    "nl": "arm"
+  },
+  {
+    "fr": "l’hiver",
+    "nl": "de winter"
+  },
+  {
+    "fr": "l’été",
+    "nl": "de zomer"
+  },
+  {
+    "fr": "le printemps",
+    "nl": "de lente"
+  },
+  {
+    "fr": "l’automne",
+    "nl": "de herfst"
+  },
+  {
+    "fr": "il pleut",
+    "nl": "het regent"
+  },
+  {
+    "fr": "il neige",
+    "nl": "het sneeuwt"
+  },
+  {
+    "fr": "il y a du vent",
+    "nl": "het waait"
+  },
+  {
+    "fr": "il fait beau",
+    "nl": "het is mooi weer"
+  },
+  {
+    "fr": "la nature",
+    "nl": "de natuur"
+  },
+  {
+    "fr": "un arbre",
+    "nl": "een boom"
+  },
+  {
+    "fr": "beaucoup de verdure",
+    "nl": "veel groen"
+  },
+  {
+    "fr": "des fleurs",
+    "nl": "bloemen"
+  },
+  {
+    "fr": "le ciel",
+    "nl": "de hemel"
+  },
+  {
+    "fr": "le paysage",
+    "nl": "het landschap"
+  },
+  {
+    "fr": "la beauté",
+    "nl": "de schoonheid"
+  },
+  {
+    "fr": "la lumière",
+    "nl": "het licht"
+  },
+  {
+    "fr": "les détails",
+    "nl": "de details"
+  },
+  {
+    "fr": "un mélange de",
+    "nl": "een mengeling van"
+  },
+  {
+    "fr": "mélanger",
+    "nl": "mengen"
+  },
+  {
+    "fr": "Blanc(he)",
+    "nl": "wit"
+  },
+  {
+    "fr": "noir",
+    "nl": "zwart"
+  },
+  {
+    "fr": "vert",
+    "nl": "groen"
+  },
+  {
+    "fr": "jaune",
+    "nl": "geel"
+  },
+  {
+    "fr": "rouge",
+    "nl": "rood"
+  },
+  {
+    "fr": "rose",
+    "nl": "roze"
+  },
+  {
+    "fr": "orange",
+    "nl": "oranje"
+  },
+  {
+    "fr": "violet",
+    "nl": "paars"
+  },
+  {
+    "fr": "gris",
+    "nl": "grijs"
+  },
+  {
+    "fr": "brun",
+    "nl": "bruin"
+  },
+  {
+    "fr": "Bleu clair",
+    "nl": "Lichtblauw"
+  },
+  {
+    "fr": "Bleu foncé",
+    "nl": "Donkerblauw"
+  },
+  {
+    "fr": "La couleur dominante est le bleu",
+    "nl": "De dominante kleur is blauw"
+  },
+  {
+    "fr": "Je voudrais faire des études de…",
+    "nl": "Ik zou…. willen studeren"
+  },
+  {
+    "fr": "Je voudrais devenir….",
+    "nl": "Ik wil… worden."
+  },
+  {
+    "fr": "faire des études de…",
+    "nl": "… studeren"
+  },
+  {
+    "fr": "étudier le / la…",
+    "nl": "… studeren"
+  },
+  {
+    "fr": "suivre une formation",
+    "nl": "een opleiding volgen"
+  },
+  {
+    "fr": "l’université",
+    "nl": "de universiteit"
+  },
+  {
+    "fr": "la fac",
+    "nl": "de uni"
+  },
+  {
+    "fr": "l’étudiant",
+    "nl": "de student"
+  },
+  {
+    "fr": "l’attente",
+    "nl": "de verwachting"
+  },
+  {
+    "fr": "déménager",
+    "nl": "verhuizen"
+  },
+  {
+    "fr": "quitter la maison",
+    "nl": "uit huis gaan"
+  },
+  {
+    "fr": "s’habituer à",
+    "nl": "wennen aan"
+  },
+  {
+    "fr": "l’indépendance",
+    "nl": "de onafhankelijkheid"
+  },
+  {
+    "fr": "le marché de travail",
+    "nl": "de arbeidsmarkt"
+  },
+  {
+    "fr": "réaliser un stage",
+    "nl": "een stage doen"
+  },
+  {
+    "fr": "le poste",
+    "nl": "de functie"
+  },
+  {
+    "fr": "le parcours",
+    "nl": "de loopbaan"
+  },
+  {
+    "fr": "exercer un métier",
+    "nl": "een beroep uitoefenen"
+  },
+  {
+    "fr": "améliorer",
+    "nl": "verbeteren"
+  },
+  {
+    "fr": "l’association étudiante",
+    "nl": "de studentenvereniging"
+  },
+  {
+    "fr": "le/la colocataire",
+    "nl": "de huisgenoot (m/v)"
+  },
+  {
+    "fr": "vivre en colocation",
+    "nl": "samen iets huren"
+  },
+  {
+    "fr": "avoir affaire à",
+    "nl": "te maken hebben met"
+  },
+  {
+    "fr": "l’offre d’emploi",
+    "nl": "de vacature"
+  },
+  {
+    "fr": "postuler",
+    "nl": "solliciteren"
+  },
+  {
+    "fr": "l’employeur",
+    "nl": "de werkgever"
+  },
+  {
+    "fr": "le candidat",
+    "nl": "de sollicitant"
+  },
+  {
+    "fr": "s’occuper de",
+    "nl": "zich bezighouden met"
+  },
+  {
+    "fr": "faire ses preuves",
+    "nl": "jezelf bewijzen"
+  },
+  {
+    "fr": "démontrer",
+    "nl": "aantonen"
+  },
+  {
+    "fr": "mentionner",
+    "nl": "benoemen"
+  },
+  {
+    "fr": "Le travail consiste à",
+    "nl": "Het werk bestaat uit.."
+  },
+  {
+    "fr": "J’ai de l’expérience en tant que..",
+    "nl": "ik heb ervaring als.."
+  },
+  {
+    "fr": "Il y a…jours",
+    "nl": "Het is…dagen geleden"
+  },
+  {
+    "fr": "Depuis trois ans",
+    "nl": "Sinds drie jaar"
+  },
+  {
+    "fr": "Pendant les vacances",
+    "nl": "Tijdens de vakantie"
+  },
+  {
+    "fr": "Au début, à la fin",
+    "nl": "Aan het begin, aan het eind"
+  },
+  {
+    "fr": "Avant, après",
+    "nl": "Voor, na"
+  },
+  {
+    "fr": "….fois par semaine",
+    "nl": "….keer per week"
+  },
+  {
+    "fr": "Parfois, souvent, toujours",
+    "nl": "Soms, vaak, altijd"
+  },
+  {
+    "fr": "D’abord, ensuite/ puis/ après, enfin",
+    "nl": "Ten eerste, daarna, uiteindelijk"
+  },
+  {
+    "fr": "L’année prochaine",
+    "nl": "Volgend jaar"
+  },
+  {
+    "fr": "Dans deux / dix ans",
+    "nl": "Over twee/tien jaar"
+  },
+  {
+    "fr": "Dans l’avenir",
+    "nl": "In de toekomst"
+  },
+  {
+    "fr": "En 2030",
+    "nl": "In 2030"
+  },
+  {
+    "fr": "Après le bac / mes études",
+    "nl": "Na mijn eindexamen/mijn studie"
+  },
+  {
+    "fr": "J’aimerais (bien) / Je voudrais",
+    "nl": "Ik zou graag willen"
+  },
+  {
+    "fr": "Mon rêve est de…",
+    "nl": "Mijn droom is om…"
+  },
+  {
+    "fr": "J’ai l’intention de…",
+    "nl": "Ik ben van plan om…"
+  },
+  {
+    "fr": "J’espère + infinitif, j’espère obtenir/réussir…",
+    "nl": "Ik hoop…te halen"
+  },
+  {
+    "fr": "Faire des études de/d’…",
+    "nl": "… studeren"
+  },
+  {
+    "fr": "d’économie et de gestion",
+    "nl": "rechten, geneeskunde, journalistiek, communicatie,"
+  },
+  {
+    "fr": "Prendre une année sabbatique",
+    "nl": "Een tussenjaar nemen"
+  },
+  {
+    "fr": "Faire du bénévolat",
+    "nl": "Vrijwilligerswerk doen"
+  },
+  {
+    "fr": "Je n’ai pas de projets précis",
+    "nl": "Ik heb geen precieze plannen"
+  },
+  {
+    "fr": "Avoir un bon poste",
+    "nl": "Een goede baan hebben"
+  },
+  {
+    "fr": "Être/devenir médecin, professeur, infirmier(ère), avocat(e) tec",
+    "nl": "Een arts, leraar,"
+  },
+  {
+    "fr": "Gagner beaucoup d’argent",
+    "nl": "Veel geld verdienen"
+  },
+  {
+    "fr": "Faire carrière",
+    "nl": "carrière maken"
+  },
+  {
+    "fr": "le lycée",
+    "nl": "de bovenbouw van de middelbare school"
+  },
+  {
+    "fr": "le lycéen, la lycéenne",
+    "nl": "de leerling op het lycée"
+  },
+  {
+    "fr": "passer le bac",
+    "nl": "eindexamen doen"
+  },
+  {
+    "fr": "la terminale",
+    "nl": "de 6de klas"
+  },
+  {
+    "fr": "la première",
+    "nl": "de 5de klas"
+  },
+  {
+    "fr": "la seconde",
+    "nl": "de 4de klas"
+  },
+  {
+    "fr": "le collège",
+    "nl": "de onderbouw van de middelbare school"
+  },
+  {
+    "fr": "le collégien, la collégienne",
+    "nl": "de leerling op het collège"
+  },
+  {
+    "fr": "la troisième",
+    "nl": "de 3de klas"
+  },
+  {
+    "fr": "la quatrième",
+    "nl": "de 2de klas"
+  },
+  {
+    "fr": "la cinquième",
+    "nl": "de eerste klas"
+  },
+  {
+    "fr": "l’école primaire",
+    "nl": "de basischool"
+  },
+  {
+    "fr": "la classe",
+    "nl": "de klas"
+  },
+  {
+    "fr": "la salle (de classe)",
+    "nl": "het (klas)lokaal"
+  },
+  {
+    "fr": "le CDI",
+    "nl": "de mediatheek"
+  },
+  {
+    "fr": "la cantine",
+    "nl": "de kantine"
+  },
+  {
+    "fr": "le cours",
+    "nl": "de les"
+  },
+  {
+    "fr": "la cour",
+    "nl": "het schoolplein"
+  },
+  {
+    "fr": "J’ai cours de… à…",
+    "nl": "ik heb van… tot… les"
+  },
+  {
+    "fr": "rater un cours",
+    "nl": "een les missen"
+  },
+  {
+    "fr": "le début du cours",
+    "nl": "het begin van de les"
+  },
+  {
+    "fr": "la fin du cours",
+    "nl": "het einde van de les"
+  },
+  {
+    "fr": "aller en cours",
+    "nl": "naar de les gaan"
+  },
+  {
+    "fr": "avoir cours",
+    "nl": "les hebben"
+  },
+  {
+    "fr": "assister à un cours",
+    "nl": "een les bijwonen"
+  },
+  {
+    "fr": "l’emploi du temps",
+    "nl": "het rooster"
+  },
+  {
+    "fr": "J’ai un emploi du temps chargé",
+    "nl": "Ik heb een vol rooster"
+  },
+  {
+    "fr": "l’heure creuse",
+    "nl": "het tussenuur"
+  },
+  {
+    "fr": "la récré",
+    "nl": "de kleine pauze"
+  },
+  {
+    "fr": "la pause (déjeuner)",
+    "nl": "de grote pauze"
+  },
+  {
+    "fr": "être à l’heure",
+    "nl": "op tijd zijn"
+  },
+  {
+    "fr": "être en retard",
+    "nl": "te laat zijn"
+  },
+  {
+    "fr": "arriver en retard",
+    "nl": "te laat komen"
+  },
+  {
+    "fr": "présent",
+    "nl": "present"
+  },
+  {
+    "fr": "absent",
+    "nl": "absent"
+  },
+  {
+    "fr": "le soutien scolaire",
+    "nl": "de bijles"
+  },
+  {
+    "fr": "avoir une heure de colle",
+    "nl": "een uur moeten nablijven"
+  },
+  {
+    "fr": "il est interdit de…",
+    "nl": "het is verboden om…"
+  },
+  {
+    "fr": "il faut…",
+    "nl": "je moet…/jullie moeten…/wij moeten…"
+  },
+  {
+    "fr": "éteindre ton portable",
+    "nl": "je telefoon uit doen"
+  },
+  {
+    "fr": "ranger ton portable",
+    "nl": "je telefoon opbergen"
+  },
+  {
+    "fr": "travailler en duos",
+    "nl": "in tweetallen werken"
+  },
+  {
+    "fr": "en silence",
+    "nl": "in stilte"
+  },
+  {
+    "fr": "seul(e)",
+    "nl": "alleen"
+  },
+  {
+    "fr": "l’élève",
+    "nl": "de leerling"
+  },
+  {
+    "fr": "le/la prof(fesseur)",
+    "nl": "de docent"
+  },
+  {
+    "fr": "le/la PP (= prof principal)",
+    "nl": "de mentor"
+  },
+  {
+    "fr": "le/la proviseur",
+    "nl": "de directeur"
+  },
+  {
+    "fr": "le/la conseillère d’orientation",
+    "nl": "de decaan"
+  },
+  {
+    "fr": "faire ses devoirs",
+    "nl": "huiswerk maken"
+  },
+  {
+    "fr": "apprendre",
+    "nl": "leren"
+  },
+  {
+    "fr": "l’apprentissage",
+    "nl": "het leren"
+  },
+  {
+    "fr": "comprendre",
+    "nl": "begrijpen"
+  },
+  {
+    "fr": "expliquer quelque chose",
+    "nl": "iets uitleggen"
+  },
+  {
+    "fr": "prendre des notes",
+    "nl": "aantekeningen maken"
+  },
+  {
+    "fr": "enseigner",
+    "nl": "lesgeven"
+  },
+  {
+    "fr": "l’enseignement",
+    "nl": "het lesgeven"
+  },
+  {
+    "fr": "réviser",
+    "nl": "leren voor een toets"
+  },
+  {
+    "fr": "un devoir sur table",
+    "nl": "een openboek toets"
+  },
+  {
+    "fr": "une dissertation",
+    "nl": "een opstel"
+  },
+  {
+    "fr": "l’oral",
+    "nl": "het mondeling"
+  },
+  {
+    "fr": "un exercice",
+    "nl": "een oefening"
+  },
+  {
+    "fr": "les devoirs",
+    "nl": "het huiswerk"
+  },
+  {
+    "fr": "une épreuve",
+    "nl": "een grote toets"
+  },
+  {
+    "fr": "un contrôle",
+    "nl": "een toets"
+  },
+  {
+    "fr": "une interro",
+    "nl": "een korte toets"
+  },
+  {
+    "fr": "un exam(en)",
+    "nl": "een examen"
+  },
+  {
+    "fr": "… écrit(e)",
+    "nl": "schriftelijke…"
+  },
+  {
+    "fr": "… orale",
+    "nl": "mondelinge…"
+  },
+  {
+    "fr": "réussir",
+    "nl": "slagen / lukken"
+  },
+  {
+    "fr": "échouer",
+    "nl": "mislukken"
+  },
+  {
+    "fr": "rater (pop.)",
+    "nl": "mislukken / missen"
+  },
+  {
+    "fr": "redoubler",
+    "nl": "zitten blijven"
+  },
+  {
+    "fr": "travailler dur",
+    "nl": "hard werken"
+  },
+  {
+    "fr": "bosser dur (pop.)",
+    "nl": "hardwerken"
+  },
+  {
+    "fr": "faire un planning",
+    "nl": "een planning maken"
+  },
+  {
+    "fr": "suivre un planning",
+    "nl": "een planning volgen"
+  },
+  {
+    "fr": "tricher",
+    "nl": "afkijken"
+  },
+  {
+    "fr": "la note",
+    "nl": "het cijfer"
+  },
+  {
+    "fr": "une bonne note",
+    "nl": "een goed cijfer"
+  },
+  {
+    "fr": "une note insuffisante",
+    "nl": "een onvoldoende"
+  },
+  {
+    "fr": "une mauvaise note",
+    "nl": "een slecht cijfer"
+  },
+  {
+    "fr": "la moyenne",
+    "nl": "het gemiddelde"
+  },
+  {
+    "fr": "le bulletin",
+    "nl": "het rapport"
+  },
+  {
+    "fr": "Je me débrouille (assez) bien en…",
+    "nl": "Ik red me (voldoende) goed in…"
+  },
+  {
+    "fr": "Je suis fort(e) en…",
+    "nl": "Ik ben goed in…"
+  },
+  {
+    "fr": "Je suis faible en…",
+    "nl": "Ik ben zwak in…"
+  },
+  {
+    "fr": "Je suis capable de…",
+    "nl": "Ik ben in staat om…"
+  },
+  {
+    "fr": "J’ai du mal avec…",
+    "nl": "Ik vind…. lastig"
+  },
+  {
+    "fr": "J’ai des difficultés en…",
+    "nl": "Ik heb moeite met…"
+  },
+  {
+    "fr": "Je trouve… compliqué(e)",
+    "nl": "Ik vind… ingewikkeld"
+  },
+  {
+    "fr": "facile",
+    "nl": "makkelijk"
+  },
+  {
+    "fr": "difficile",
+    "nl": "moeilijk"
+  },
+  {
+    "fr": "être motivé(e)",
+    "nl": "gemotiveerd zijn"
+  },
+  {
+    "fr": "autonome",
+    "nl": "zelfstandig"
+  },
+  {
+    "fr": "organisé(e)",
+    "nl": "georganiseerd"
+  },
+  {
+    "fr": "persévérant(e)",
+    "nl": "doorzetter"
+  },
+  {
+    "fr": "améliorer mes notes",
+    "nl": "mijn cijfers verbeteren"
+  },
+  {
+    "fr": "la compétence",
+    "nl": "de vaardigheid / competentie"
+  },
+  {
+    "fr": "la production écrite",
+    "nl": "schrijfvaardigheid"
+  },
+  {
+    "fr": "la production orale",
+    "nl": "spreekvaardigheid"
+  },
+  {
+    "fr": "la compréhension des écrits",
+    "nl": "leesvaardigheid"
+  },
+  {
+    "fr": "la compréhension orale",
+    "nl": "luistervaardigheid"
+  },
+  {
+    "fr": "la filière",
+    "nl": "het profiel"
+  },
+  {
+    "fr": "ES",
+    "nl": "EM"
+  },
+  {
+    "fr": "L",
+    "nl": "CM"
+  },
+  {
+    "fr": "S",
+    "nl": "NG/NT"
+  },
+  {
+    "fr": "Je suis en filière…",
+    "nl": "Ik doe het profiel…"
+  },
+  {
+    "fr": "J’ai choisi la filière… parce que…",
+    "nl": "Ik heb het profiel… gekozen omdat…"
+  },
+  {
+    "fr": "C’est mieux de…",
+    "nl": "Het is beter om…"
+  },
+  {
+    "fr": "un bon choix",
+    "nl": "een goede keuze"
+  },
+  {
+    "fr": "un mauvais choix",
+    "nl": "een slechte keuze"
+  },
+  {
+    "fr": "choisir",
+    "nl": "kiezen"
+  },
+  {
+    "fr": "hésiter",
+    "nl": "twijfelen tussen verschillende keuzes"
+  },
+  {
+    "fr": "décider",
+    "nl": "beslissen"
+  },
+  {
+    "fr": "être sûr(e)",
+    "nl": "zeker zijn"
+  },
+  {
+    "fr": "incertain(e)",
+    "nl": "niet zeker"
+  },
+  {
+    "fr": "l’avantage",
+    "nl": "het voordeel"
+  },
+  {
+    "fr": "l’inconvénient",
+    "nl": "het nadeel"
+  },
+  {
+    "fr": "le point positif",
+    "nl": "het positieve"
+  },
+  {
+    "fr": "le point négatif",
+    "nl": "het negatieve"
+  },
+  {
+    "fr": "la matière",
+    "nl": "het vak"
+  },
+  {
+    "fr": "une option",
+    "nl": "een vrije keuzevak"
+  },
+  {
+    "fr": "une matière obligatoire",
+    "nl": "een verplicht vak"
+  },
+  {
+    "fr": "une matière facultative",
+    "nl": "een keuzevak"
+  },
+  {
+    "fr": "le latin",
+    "nl": "Latijn"
+  },
+  {
+    "fr": "le grec",
+    "nl": "Grieks"
+  },
+  {
+    "fr": "la bio(logie)",
+    "nl": "biologie"
+  },
+  {
+    "fr": "la chimie",
+    "nl": "scheikunde"
+  },
+  {
+    "fr": "la physique",
+    "nl": "natuurkunde"
+  },
+  {
+    "fr": "les maths",
+    "nl": "wiskunde"
+  },
+  {
+    "fr": "l’économie",
+    "nl": "economie"
+  },
+  {
+    "fr": "le néerlandais",
+    "nl": "Nederlands"
+  },
+  {
+    "fr": "l’anglais",
+    "nl": "Engels"
+  },
+  {
+    "fr": "le français",
+    "nl": "Frans"
+  },
+  {
+    "fr": "l’allemand",
+    "nl": "Duits"
+  },
+  {
+    "fr": "la philo(sophie)",
+    "nl": "filosofie"
+  },
+  {
+    "fr": "l’éducation civique et sociale",
+    "nl": "maatschappijleer"
+  },
+  {
+    "fr": "l’histoire",
+    "nl": "geschiedenis"
+  },
+  {
+    "fr": "la géo(graphie)",
+    "nl": "aardrijkskunde"
+  },
+  {
+    "fr": "les arts",
+    "nl": "kunst (algemeen)"
+  },
+  {
+    "fr": "les arts plastiques",
+    "nl": "beeldende vorming"
+  },
+  {
+    "fr": "la musique",
+    "nl": "muziek"
+  },
+  {
+    "fr": "le théâtre",
+    "nl": "drama"
+  },
+  {
+    "fr": "l’EPS",
+    "nl": "bewegingsonderwijs"
+  },
+  {
+    "fr": "la vie de classe",
+    "nl": "mentorles"
+  },
+  {
+    "fr": "l’ordi(nateur)",
+    "nl": "de computer"
+  },
+  {
+    "fr": "le tableau interactif",
+    "nl": "het digibord"
+  },
+  {
+    "fr": "le voyage scolaire",
+    "nl": "de schoolreis"
+  },
+  {
+    "fr": "partir en excursion",
+    "nl": "op excursie gaan"
+  },
+  {
+    "fr": "on a marché",
+    "nl": "we hebben gelopen"
+  },
+  {
+    "fr": "être membre du journal scolaire",
+    "nl": "lid zijn van de schoolkrant"
+  },
+  {
+    "fr": "écrire des articles",
+    "nl": "artikelen schrijven"
+  }
+]

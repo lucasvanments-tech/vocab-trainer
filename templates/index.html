@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>VocabTrainer</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>VocabTrainer — French ↔ Dutch</h1>
+    <div id="controls">
+      <button id="initBtn">Initialize DB / Load vocab</button>
+      <button id="diagBtn">Start 10-item Diagnostic</button>
+      <button id="adaptiveBtn">Start Adaptive Practice</button>
+      <select id="direction">
+        <option value="fr2nl">FR → NL</option>
+        <option value="nl2fr">NL → FR</option>
+      </select>
+      <button id="progressBtn">Show Progress</button>
+      <button id="exportBtn">Export CSV</button>
+    </div>
+
+    <div id="quiz" style="display:none;">
+      <div id="qnum"></div>
+      <div id="prompt" class="prompt"></div>
+      <input id="answer" placeholder="Type your answer here" />
+      <div>
+        Confidence:
+        <select id="confidence">
+          <option value="5">5 - Very confident</option>
+          <option value="4">4</option>
+          <option value="3" selected>3</option>
+          <option value="2">2</option>
+          <option value="1">1 - Not confident</option>
+        </select>
+      </div>
+      <div class="buttons">
+        <button id="submitBtn">Submit</button>
+        <button id="hintBtn">Hint</button>
+        <button id="skipBtn">Skip (mark Fuzzy)</button>
+        <button id="stopBtn">Stop Practice</button>
+      </div>
+      <div id="feedback"></div>
+    </div>
+
+    <div id="progress" style="display:none;">
+  <h3>Progress</h3>
+  <button id="hideProgressBtn">Hide Progress</button>
+  <div id="progressText"></div>
+</div>
+
+  </div>
+
+  <script src="/static/main.js"></script>
+</body>
+</html>
