@@ -111,6 +111,18 @@ function showQuiz(){
   document.getElementById("progress").style.display = "none";
   showQuestion();
 }
+// Always re-attach Enter listener when quiz becomes visible
+setTimeout(() => {
+  const answerBox = document.getElementById("answer");
+  if (answerBox) {
+    answerBox.addEventListener("keydown", function (event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        document.getElementById("submitBtn").click();
+      }
+    });
+  }
+}, 100);
 
 async function showQuestion(){
   const qnum = idx + 1;
@@ -208,4 +220,15 @@ document.getElementById("skipBtn").onclick = async () => {
   idx++;
   setTimeout(showQuestion, 4000);
 };
-
+// ---- Allow Enter key to trigger Submit ----
+window.addEventListener("DOMContentLoaded", () => {
+  const answerBox = document.getElementById("answer");
+  if (answerBox) {
+    answerBox.addEventListener("keydown", function (event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        document.getElementById("submitBtn").click();
+      }
+    });
+  }
+});
