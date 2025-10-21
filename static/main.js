@@ -39,7 +39,41 @@ document.getElementById("adaptiveBtn").onclick = async () => {
 
 // When you click "Show Progress"
 document.getElementById("progressBtn").onclick = async () => {
-  const r = await fetch("/api/progress").then(r=>r.json());
+  // Use local progress instead of server progress
+const localProgress = Object.entries(JSON.parse(localStorage.getItem("progress") || "{}"))
+  .map(([fr, val]) => ({ fr, ...val }));
+
+let progressHTML = "<table><tr><th>French</th><th>Dutch</th><th>Status</th><th>Last Updated</th></tr>";
+localProgress.forEach(row => {
+  const badge = {
+    "Mastered": "🟢 Mastered",
+    "Learning": "🟡 Learning",
+    "Review": "🔴 Review"
+  }[row.bucket] || row.bucket;
+
+  progressHTML += `<tr>
+    <td>${row.fr}</td>
+    <td>${row.nl}</td>
+    <td>${badge}</td>
+    <td>${new Date(row.time).toLocaleDateString()}</td>
+  </tr>`;
+});
+progressHTML += "</table>";
+document.getElementById("progressText").innerHTML = progressHTML;
+document.getElementById("progress").style.display = "block";
+
+// ---- Hide Progress button ----
+document.getElementById("hideProgressBtn").onclick = () => {
+  document.getElementById("progress").style.display = "none";
+};
+
+document.getElementById("resetBtn").onclick = () => {
+  if (confirm("Are you sure you want to reset your progress?")) {
+    localStorage.removeItem("progress");
+    alert("Progress reset! Start fresh 🎉");
+  }
+};
+
   const data = r.rows;
 let html = "<table><tr><th>French</th><th>Dutch</th><th>Status</th><th>Score</th></tr>";
 data.forEach(row => {
@@ -125,7 +159,30 @@ document.getElementById("submitBtn").onclick = async () => {
     `${fb}. Correct: ${r.correct_text}. New bucket: ${r.new_bucket}`;
   idx++;
   setTimeout(showQuestion, 4000);
+  // --- Save progress locally in browser ---
+let progress = JSON.parse(localStorage.getItem("progress") || "{}");
+progress[it.fr] = {
+  nl: it.nl,
+  bucket: r.new_bucket,
+  correct: r.correct,
+  time: new Date().toISOString()
 };
+localStorage.setItem("progress", JSON.stringify(progress));
+};
+
+// --- Save progress locally in browser ---
+let progress = JSON.parse(localStorage.getItem("progress") || "{}");
+
+// Store the latest status for this word
+progress[it.fr] = {
+  nl: it.nl,
+  bucket: r.new_bucket,
+  correct: r.correct,
+  time: new Date().toISOString()
+};
+
+// Save back to localStorage
+localStorage.setItem("progress", JSON.stringify(progress));
 
 // When you click "Hint"
 document.getElementById("hintBtn").onclick = () => {
