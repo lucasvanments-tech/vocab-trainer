@@ -43,12 +43,18 @@ document.getElementById("progressBtn").onclick = async () => {
   const data = r.rows;
 let html = "<table><tr><th>French</th><th>Dutch</th><th>Status</th><th>Score</th></tr>";
 data.forEach(row => {
-  html += `<tr>
-    <td>${row.fr}</td>
-    <td>${row.nl}</td>
-    <td>${row.bucket}</td>
-    <td>${row.correct_count}/${row.total_tests}</td>
-  </tr>`;
+ const badge = {
+  "Mastered": "🟢 Mastered",
+  "Learning": "🟡 Learning",
+  "Review": "🔴 Review"
+}[row.bucket] || row.bucket;
+
+html += `<tr>
+  <td>${row.fr}</td>
+  <td>${row.nl}</td>
+  <td>${badge}</td>
+  <td>${row.correct_count}/${row.total_tests}</td>
+</tr>`;
 });
 html += "</table>";
 document.getElementById("progressText").innerHTML = html;
